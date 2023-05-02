@@ -1,0 +1,116 @@
+digraph "network_diagram - All" {
+	graph [bgcolor=grey dpi=300 fontcolor=black fontsize=16 label=PcapGraph overlap=scale rankdir=LR size="10, 10"]
+	node [color=" black" fillcolor=yellow fixedsize=true fontcolor=black fontname=Helvetica height=3 shape=circle style=filled width=3]
+	node [shape=doublecircle]
+	node [shape=circle]
+	"172.19.48.53
+"
+	"172.19.48.53
+" -> "
+PossibleGateway" [label="UnknownProtocol/58581: 172.19.63.255" color=brown]
+	"172.19.39.175
+"
+	"172.19.39.175
+" -> "
+PossibleGateway" [label="Covert/DNS: 172.18.8.222: " color=cyan]
+	"172.19.48.79
+"
+	"172.19.48.79
+" -> "
+PossibleGateway" [label="UnknownProtocol/58581: 172.19.63.255" color=brown]
+	"172.19.48.229
+"
+	"172.19.48.229
+" -> "
+PossibleGateway" [label="UnknownProtocol/58581: 172.19.63.255" color=brown]
+	"172.19.39.175
+"
+	"172.19.39.175
+" -> "
+PossibleGateway" [label="Covert/DNS: 172.18.10.10: " color=cyan]
+	"172.19.39.175
+"
+	"172.19.39.175
+" -> "
+PossibleGateway" [label="Covert/DNS: 172.18.8.101: " color=cyan]
+	"172.19.36.82
+"
+	"172.19.36.82
+" -> "
+PossibleGateway" [label="UnknownProtocol/2008: 172.19.63.255" color=brown]
+	"172.19.57.209
+"
+	"172.19.57.209
+" -> "
+PossibleGateway" [label="UnknownProtocol/17500: 172.19.63.255" color=brown]
+	"172.19.39.175
+"
+	"172.19.39.175
+" -> "00.08.e3.ff.fc.28
+PossibleGateway" [label="HTTPS: 17.57.144.11: NotResolvable" color=blue]
+	"172.19.52.173
+"
+	"172.19.52.173
+" -> "
+PossibleGateway" [label="UnknownProtocol/17500: 172.19.63.255" color=brown]
+	"172.19.51.171
+"
+	"172.19.51.171
+" -> "
+PossibleGateway" [label="UnknownProtocol/57621: 172.19.63.255" color=brown]
+	"172.19.35.10
+"
+	"172.19.35.10
+" -> "
+PossibleGateway" [label="UnknownProtocol/57621: 172.19.63.255" color=brown]
+	"172.19.45.215
+"
+	"172.19.45.215
+" -> "
+PossibleGateway" [label="UnknownProtocol/3289: 172.19.63.255" color=brown]
+	"172.19.45.215
+"
+	"172.19.45.215
+" -> "
+PossibleGateway" [label="UnknownProtocol/22222: 172.19.63.255" color=brown]
+	"172.19.32.1
+"
+	"172.19.32.1
+" -> "ff.ff.ff.ff.ff.ff
+PossibleGateway" [label="UnknownProtocol/68: 255.255.255.255" color=brown]
+	"172.19.39.175
+"
+	"172.19.39.175
+" -> "00.08.e3.ff.fc.28
+PossibleGateway" [label="HTTPS: 17.250.102.46: NotResolvable" color=blue]
+	"172.19.34.57
+"
+	"172.19.34.57
+" -> "
+PossibleGateway" [label="UnknownProtocol/17500: 172.19.63.255" color=brown]
+	"172.19.38.142
+"
+	"172.19.38.142
+" -> "
+PossibleGateway" [label="UnknownProtocol/15600: 172.19.63.255" color=brown]
+	"172.19.58.176
+"
+	"172.19.58.176
+" -> "
+PossibleGateway" [label="UnknownProtocol/15600: 172.19.63.255" color=brown]
+	"172.19.63.55
+"
+	"172.19.63.55
+" -> "
+PossibleGateway" [label="UnknownProtocol/57621: 172.19.63.255" color=brown]
+	"172.19.43.22
+"
+	"172.19.43.22
+" -> "
+PossibleGateway" [label="UnknownProtocol/6646: 172.19.63.255" color=brown]
+	"172.19.62.216
+"
+	"172.19.62.216
+" -> "
+PossibleGateway" [label="UnknownProtocol/17500: 172.19.63.255" color=brown]
+}
