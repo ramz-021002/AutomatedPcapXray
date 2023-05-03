@@ -1,5 +1,5 @@
 import sys
-from tkinter import StringVar
+#from tkinter import StringVar
 import pcap_reader
 import plot_lan_network
 import communication_details_fetch
