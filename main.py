@@ -29,10 +29,8 @@ import warnings
 warnings.filterwarnings("ignore", category=UserWarning)
 
 def main():
-    while True:
-        user_interface.pcapXrayCLI()
-        #main.clear()
-    time.sleep(1000)
+    user_interface.pcapXrayCLI()
+    import pcap_reader
+    
 main()
-
     
